@@ -32,7 +32,6 @@ ul.task-list li input[type="checkbox"] {
 <script src="site_libs/quarto-html/quarto.js"></script>
 <script src="site_libs/quarto-html/popper.min.js"></script>
 <script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
 <link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="site_libs/bootstrap/bootstrap.min.js"></script>
@@ -62,48 +61,72 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body>
+<body class="fullcontent">
 
 <div id="quarto-search-results"></div>
 <!-- content -->
 <div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    </div>
+    
 <!-- main -->
-<main class="content" id="quarto-document-content">
-
+<div class="quarto-about-trestles">
+  <div class="about-entity">
+    <img src="images\profpic.jpg" class="about-image
+  rounded " style="width: 15em;">
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
 <h1 class="title">Madeleine Guyant</h1>
 </div>
-
-
-
 <div class="quarto-title-meta">
-
-    
-    
   </div>
-  
-
 </header>
+    <div class="about-links">
+  <a href="https://twitter.com/madeleineguyant" class="about-link">
+    <i class="bi bi-twitter"></i>
+     <span class="about-link-text">twitter</span>
+  </a>
+  <a href="https://www.linkedin.com/in/madeleineguyant" class="about-link">
+    <i class="bi bi-linkedin"></i>
+     <span class="about-link-text">linkedin</span>
+  </a>
+  <a href="mailto:mguyant@umassd.edu" class="about-link">
+    <i class="bi bi-email"></i>
+     <span class="about-link-text">email</span>
+  </a>
+</div>
+  </div>
+  <div class="about-contents"><main class="content" id="quarto-document-content">
+<section id="welcome" class="level3">
+<h3 data-anchor-id="welcome"><strong>Welcome!</strong></h3>
+<p>I’m a fishery scientist with a background in policy, interested in stakeholder engagement and supporting data limited fisheries. Home base is the <a href="http://www.smast.umassd.edu/lab_fay/">Fay Lab</a> at the University of Massachusetts Dartmouth, School for Marine Science and Technology where I am a technical associate and decision support specialist. When I’m not thinking about fish, I might be out sailing or diving (and probably still thinking about fish).</p>
+<p>Current projects include:</p>
+<ul>
+<li><p>Synthesis of fish habitat and climate vulnerability assessments for the New England and Mid Atlantic Fishery Councils.</p></li>
+<li><p>Supporting stakeholder engagement on CINAR-funded work to evaluate changes to NOAA fishery independent survey data products due to overlap with wind installation and lease areas.</p></li>
+<li><p>Facilitating prototype management strategy evaluation workshops for the New England Fishery Management Council.</p></li>
+</ul>
+</section>
+<section id="education" class="level3">
+<h3 data-anchor-id="education"><strong>Education</strong></h3>
+<p><strong>MS Environment, Politics, and Development</strong><br>
+University of London SOAS</p>
+<p><strong>BS Environmental Management</strong><br>
+North Carolina State University<br>
+</p>
+</section>
+<section id="experience" class="level3">
+<h3 data-anchor-id="experience"><strong>Experience</strong></h3>
+<p><strong>Technical Associate, 2022 - Present<br>
+</strong>UMass Dartmouth SMAST</p>
+<p><strong>Environmental Specialist, 2020 - 2021<br>
+</strong>US Virgin Islands Division of Fish and Wildlife</p>
 
-<p>Welcome! I’m a fishery scientist passionate about stakeholder engagement and data limited fisheries. Home base is the Fay Lab at the University of Massachusetts Dartmouth, School for Marine Science and Technology where I work as a technical associate and decision support specialist.</p>
-<p>Current projects include the New England &amp; Mid-Atlantic Fishery Management Councils’ synthesis of Fish Habitat and Climate Vulnerability assessments, supporting stakeholder engagement on CINAR-funded work to evaluate changes to NOAA fishery independent survey data products due to overlap with wind installation and lease areas, and facilitating workshops for the New England Fishery Management Council’s prototype ecosystem based fisheries management prototype management strategy evaluation.</p>
-<p><strong>Education</strong></p>
-<p>MS Environment, Politics and Development<br>
-<em>University of London SOAS</em></p>
-<p>BS Environmental Management<br>
-<em>North Carolina State University</em></p>
-<p>This is a Quarto website.</p>
-<p>To learn more about Quarto websites visit <a href="https://quarto.org/docs/websites" class="uri">https://quarto.org/docs/websites</a>.</p>
 
-
-
-</main> <!-- /main -->
+</section>
+</main></div>
+</div>
+ <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {
@@ -124,13 +147,6 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     }
   }
   toggleBodyColorPrimary();  
-  const icon = "";
-  const anchorJS = new window.AnchorJS();
-  anchorJS.options = {
-    placement: 'right',
-    icon: icon
-  };
-  anchorJS.add('.anchored');
   const clipboard = new window.ClipboardJS('.code-copy-button', {
     target: function(trigger) {
       return trigger.previousElementSibling;

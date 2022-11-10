@@ -1,19 +1,46 @@
 ---
 title: "Madeleine Guyant"
+image: images\profpic.jpg
+about:
+    template: trestles
+    image-shape: rounded
+    image-width: 15em
+    links: 
+      - icon: twitter
+        text: twitter
+        href: https://twitter.com/madeleineguyant
+      - icon: linkedin
+        text: linkedin
+        href: https://www.linkedin.com/in/madeleineguyant
+      - icon: email
+        text: email
+        href: mailto:mguyant@umassd.edu 
 ---
 
-Welcome! I'm a fishery scientist passionate about stakeholder engagement and data limited fisheries. Home base is the Fay Lab at the University of Massachusetts Dartmouth, School for Marine Science and Technology where I work as a technical associate and decision support specialist.
+### **Welcome!**
 
-Current projects include the New England & Mid-Atlantic Fishery Management Councils' synthesis of Fish Habitat and Climate Vulnerability assessments, supporting stakeholder engagement on CINAR-funded work to evaluate changes to NOAA fishery independent survey data products due to overlap with wind installation and lease areas, and facilitating workshops for the New England Fishery Management Council's prototype ecosystem based fisheries management prototype management strategy evaluation.
+I'm a fishery scientist with a background in policy, interested in stakeholder engagement and supporting data limited fisheries. Home base is the [Fay Lab](http://www.smast.umassd.edu/lab_fay/) at the University of Massachusetts Dartmouth, School for Marine Science and Technology where I am a technical associate and decision support specialist. When I'm not thinking about fish, I might be out sailing or diving (and probably still thinking about fish).
 
-**Education**
+Current projects include:
 
-MS Environment, Politics and Development \
-*University of London SOAS*
+-   Synthesis of fish habitat and climate vulnerability assessments for the New England and Mid Atlantic Fishery Councils.
 
-BS Environmental Management\
-*North Carolina State University*
+-   Supporting stakeholder engagement on CINAR-funded work to evaluate changes to NOAA fishery independent survey data products due to overlap with wind installation and lease areas.
 
-This is a Quarto website.
+-   Facilitating prototype management strategy evaluation workshops for the New England Fishery Management Council.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+### **Education**
+
+**MS Environment, Politics, and Development**\
+University of London SOAS
+
+**BS Environmental Management**\
+North Carolina State University\
+
+### **Experience**
+
+**Technical Associate, 2022 - Present\
+**UMass Dartmouth SMAST
+
+**Environmental Specialist, 2020 - 2021\
+**US Virgin Islands Division of Fish and Wildlife
