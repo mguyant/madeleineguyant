@@ -2,6 +2,16 @@
 title: "Madeleine Guyant"
 ---
 
+Welcome! I'm a fishery scientist passionate about stakeholder engagement and data limited fisheries. Home base is the Fay Lab at the University of Massachusetts Dartmouth, School for Marine Science and Technology where I work as a technical associate and decision support specialist. Current projects include the New England & Mid-Atlantic Fishery Management Councils\' synthesis of Fish Habitat and Climate Vulnerability assessments, supporting stakeholder engagement on CINAR-funded work to evaluate changes to NOAA fishery independent survey data products due to overlap with wind installation and lease areas, and facilitating workshops for the New England Fishery Management Council's prototype ecosystem based fisheries management prototype management strategy evaluation.
+
+**Education**
+
+MS Environment, Politics and Development \
+*University of London SOAS*
+
+BS Environmental Management\
+*North Carolina State University*
+
 This is a Quarto website.
 
 To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
